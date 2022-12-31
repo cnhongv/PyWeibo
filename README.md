@@ -4,7 +4,7 @@
 # 系统环境
 
 - 操作系统：Windows 11
-- 运行环境：Python 3.9.7
+- 运行环境：Python 3.9.1
 - 系统框架：Django 4.1.3
 - 开发软件：Visual Studio Code
 
